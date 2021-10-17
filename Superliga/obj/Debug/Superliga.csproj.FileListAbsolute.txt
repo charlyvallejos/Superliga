@@ -1,0 +1,9 @@
+c:\users\char\documents\visual studio 2012\Projects\Superliga\Superliga\bin\Debug\Superliga.exe.config
+c:\users\char\documents\visual studio 2012\Projects\Superliga\Superliga\obj\Debug\Superliga.Usuarios.resources
+c:\users\char\documents\visual studio 2012\Projects\Superliga\Superliga\obj\Debug\Superliga.Properties.Resources.resources
+c:\users\char\documents\visual studio 2012\Projects\Superliga\Superliga\obj\Debug\Superliga.csproj.GenerateResource.Cache
+c:\users\char\documents\visual studio 2012\Projects\Superliga\Superliga\bin\Debug\Superliga.exe
+c:\users\char\documents\visual studio 2012\Projects\Superliga\Superliga\bin\Debug\Superliga.pdb
+c:\users\char\documents\visual studio 2012\Projects\Superliga\Superliga\obj\Debug\Superliga.exe
+c:\users\char\documents\visual studio 2012\Projects\Superliga\Superliga\obj\Debug\Superliga.pdb
+c:\users\char\documents\visual studio 2012\Projects\Superliga\Superliga\obj\Debug\Superliga.csprojResolveAssemblyReference.cache
